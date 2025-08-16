@@ -1,0 +1,93 @@
+{
+    "total_queries": 6,
+    "successful_queries": 3,
+    "queries_with_hits": 6,
+    "reciprocal_ranks": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+    ],
+    "logs": [
+        {
+            "timestamp": "2025-08-16 13:33:24",
+            "question": "Address",
+            "answer_found": false,
+            "retrieval_hit": true,
+            "sources": [
+                "sample_resume.pdf - Page 1",
+                "sample_resume.pdf - Page 1",
+                "sample_resume.pdf - Page 1",
+                "sample_resume.pdf - Page 1",
+                "sample_resume.pdf - Page 1"
+            ]
+        },
+        {
+            "timestamp": "2025-08-16 13:33:40",
+            "question": "Experience",
+            "answer_found": false,
+            "retrieval_hit": true,
+            "sources": [
+                "sample_resume.pdf - Page 1",
+                "sample_resume.pdf - Page 1",
+                "sample_resume.pdf - Page 1",
+                "sample_resume.pdf - Page 1",
+                "sample_resume.pdf - Page 1"
+            ]
+        },
+        {
+            "timestamp": "2025-08-16 13:33:54",
+            "question": "education",
+            "answer_found": true,
+            "retrieval_hit": true,
+            "sources": [
+                "sample_resume.pdf - Page 1",
+                "sample_resume.pdf - Page 1",
+                "sample_resume.pdf - Page 1",
+                "sample_resume.pdf - Page 1",
+                "sample_resume.pdf - Page 1"
+            ]
+        },
+        {
+            "timestamp": "2025-08-16 13:34:10",
+            "question": "Experience",
+            "answer_found": true,
+            "retrieval_hit": true,
+            "sources": [
+                "sample_resume.pdf - Page 1",
+                "sample_resume.pdf - Page 1",
+                "sample_resume.pdf - Page 1",
+                "sample_resume.pdf - Page 1",
+                "sample_resume.pdf - Page 1"
+            ]
+        },
+        {
+            "timestamp": "2025-08-16 13:34:21",
+            "question": "Address",
+            "answer_found": false,
+            "retrieval_hit": true,
+            "sources": [
+                "sample_resume.pdf - Page 1",
+                "sample_resume.pdf - Page 1",
+                "sample_resume.pdf - Page 1",
+                "sample_resume.pdf - Page 1",
+                "sample_resume.pdf - Page 1"
+            ]
+        },
+        {
+            "timestamp": "2025-08-16 13:34:39",
+            "question": "skills",
+            "answer_found": true,
+            "retrieval_hit": true,
+            "sources": [
+                "sample_resume.pdf - Page 1",
+                "sample_resume.pdf - Page 1",
+                "sample_resume.pdf - Page 1",
+                "sample_resume.pdf - Page 1",
+                "sample_resume.pdf - Page 1"
+            ]
+        }
+    ]
+}
