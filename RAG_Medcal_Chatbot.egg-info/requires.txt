@@ -1,0 +1,9 @@
+openai
+faiss-cpu
+langchain-openai
+langchain-community
+langchain
+flask
+pypdf
+nltk
+sentence-transformers

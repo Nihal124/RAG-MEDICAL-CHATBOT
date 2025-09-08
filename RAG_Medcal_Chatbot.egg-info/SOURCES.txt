@@ -1,0 +1,7 @@
+README.md
+setup.py
+RAG_Medcal_Chatbot.egg-info/PKG-INFO
+RAG_Medcal_Chatbot.egg-info/SOURCES.txt
+RAG_Medcal_Chatbot.egg-info/dependency_links.txt
+RAG_Medcal_Chatbot.egg-info/requires.txt
+RAG_Medcal_Chatbot.egg-info/top_level.txt

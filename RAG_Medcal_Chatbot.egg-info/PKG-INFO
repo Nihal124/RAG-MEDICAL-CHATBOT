@@ -1,0 +1,15 @@
+Metadata-Version: 2.4
+Name: RAG-Medcal-Chatbot
+Version: 0.1
+Author: Nihal
+Requires-Dist: openai
+Requires-Dist: faiss-cpu
+Requires-Dist: langchain-openai
+Requires-Dist: langchain-community
+Requires-Dist: langchain
+Requires-Dist: flask
+Requires-Dist: pypdf
+Requires-Dist: nltk
+Requires-Dist: sentence-transformers
+Dynamic: author
+Dynamic: requires-dist
